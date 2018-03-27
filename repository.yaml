@@ -3,7 +3,7 @@ runtimes:
           - Cloud Foundry
 services:
           - Discovery
-          - cloudantNoSQLDB
+          - Cloudant NoSQL DB
 event_id: web
 event_organizer: dev-journeys
 language: nodejs
